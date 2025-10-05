@@ -11,10 +11,8 @@ while True:
         break
     else:
         price = float(input(f"Enter the price of {food}: $ "))
-
         foods.append(food)
         prices.append(price)
-
 
 print("---------Cart--------")
 

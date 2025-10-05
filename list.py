@@ -14,7 +14,7 @@ veggies = [
 ]
 
 # Append -> Adds an element to the list at the end.
-# veggies.append("terminal")clear
+# veggies.append("terminal")
 
 # Count -> count tells us how many times an element has appeared in the list
 
@@ -34,10 +34,8 @@ veggies = [
 # print(veggies.pop(2))  # Prints Carrot (it only prints the element you want to pop)
 # print(veggies)
 
-
 # print(veggies.clear())
 # print(veggies)
-
 
 # veggies.remove("Capsicum")
 # print(veggies)
@@ -49,4 +47,5 @@ veggies = [
 # print(len(veggies))
 
 veggies.reverse()
+veggies.append("Terminal")
 print(veggies)

@@ -3,7 +3,6 @@
 # Unordered means that if you print print(fruits) all the elements inside the list will be printed randomly, not in the order you wrote.
 # Represented with curly braces.
 
-
 fruits = {
     "Apple",
     "Banana",
