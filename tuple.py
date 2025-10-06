@@ -1,7 +1,6 @@
 # Tuple = () ordered and unchangable. Duplicates OK. FASTER
 # sourounded by normal brackets
 
-
 fruits = (
     "Apple",
     "Banana",

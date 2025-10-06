@@ -1,7 +1,3 @@
-from asyncio import PidfdChildWatcher
-import math
-
-
 # Circumferece of a circle
 # radius = float(input("Please enter the radius: \n"))
 
@@ -27,5 +23,5 @@ import math
 # print(f"The value of C is {c}")
 
 
-x = 12.1
-print(math.cosh(x))
+# x = 12.1
+# print(math.cosh(x))

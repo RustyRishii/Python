@@ -71,7 +71,6 @@ print(copycat)
 print()
 print()
 
-
 # Wraps all the key value pairs in the a tuple () tuple is brackets
 items = capitals.items()
 print(items)
