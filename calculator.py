@@ -1,4 +1,5 @@
 import math
+
 operator = input("Which operation would you like to make ?( + - * /): \n")
 
 num1 = float(input("Please enter the num1: \n"))

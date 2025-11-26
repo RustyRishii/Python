@@ -4,9 +4,6 @@
 # In this case, "Countries" is the key and their "Capitals" are values. Both combined are called key value pair
 
 
-import pprint
-
-
 capitals = {
     # Key: #Value -> Pair
     "USA": "Washington DC",
